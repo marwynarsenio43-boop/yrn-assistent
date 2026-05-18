@@ -30,7 +30,7 @@ E o sistema irá:
 
 | Funcionalidade | Descrição |
 |---|---|
-| 🧠 **Interpretação com IA** | Usa Claude (Anthropic) para entender comandos em português |
+| 🧠 **Interpretação com IA** | Usa Gemini/Groq para entender comandos em português |
 | 🤖 **Execução RPA** | Automatiza ações reais no sistema operativo |
 | 💬 **Linguagem natural** | Sem sintaxe rígida — escreva como fala |
 | 📁 **Gestão de ficheiros** | Abrir, criar, copiar, apagar pastas e ficheiros |
