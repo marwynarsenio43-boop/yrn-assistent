@@ -1,0 +1,4 @@
+# yrn.assistent — dependências
+# Nota: a IA usa apenas urllib (já incluído no Python), sem pacotes externos.
+# send2trash é opcional — melhora a eliminação de ficheiros (usa lixo do sistema).
+send2trash>=1.8.0
